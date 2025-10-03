@@ -116,5 +116,7 @@ chmod +x sentiment_analysis_setup.sh
 ## ✒️ Автор
 
 **Автор:** Михаил Шардин
+
 **Онлайн-визитка:** [shardin.name](https://shardin.name/?utm_source=github)
+
 **Telegram-канал:** ["Умный Дом Инвестора"](https://t.me/+asaEcPax8o41MjQy)
