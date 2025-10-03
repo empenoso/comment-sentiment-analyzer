@@ -1,0 +1,19 @@
+{
+  "url": "https://habr.com/ru/articles/927238/comments/",
+  "article_id": 927238,
+  "title": "Как «взломать» сайт Мосбиржи и получать лучшие BID и OFFER в Excel — без подписок, с помощью Python и API брокера",
+  "comments": [
+    {
+      "id": 28574366,
+      "author": "shaman4d",
+      "datetime": "2025-07-15T09:58:37.000Z",
+      "text": "Могу предположить что если делать через Google Sheets то автоматизация будет еще проще."
+    },
+    {
+      "id": 28574688,
+      "author": "empenoso",
+      "datetime": "2025-07-15T11:09:06.000Z",
+      "text": "Там прямо на Google Apps Script можно сразу без прокладок сделать"
+    }
+  ]
+}
